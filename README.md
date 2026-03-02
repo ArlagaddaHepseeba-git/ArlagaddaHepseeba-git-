@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hepseeba%20Arlagadda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=55&descSize=18"/>
 
 <!-- Typing animation -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+%7C+EC2+%7C+S3+%7C+IAM;🐳+Docker+%7C+Multi-stage+Builds;⚙️+Jenkins+CI%2FCD+Pipeline+Automation;🔐+Trivy+%7C+OWASP+Security+Scanning;🌱+Learning+Kubernetes+%26+Terraform" alt="Typing SVG" />
 
 <br/>
